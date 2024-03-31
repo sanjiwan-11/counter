@@ -26,4 +26,3 @@ btn2.addEventListener("click",()=>{
     }
 });
 
-// My name is sanjiwan
